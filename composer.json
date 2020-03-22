@@ -1,10 +1,10 @@
 {
-    "name": "alquemie/alquemie-config",
-    "description": "Wordpress Must-Use Plugin that tweaks site based on best practices as defined by Chris Carrel",
+    "name": "purdue/brandfonts",
+    "description": "Wordpress Must-Use Plugin that adds Purdue brand fonts and favicons",
     "authors": [
         {
-            "name": "Chris Carrel",
-            "email": "support@alquemie.net"
+            "name": "Purdue Marketing and Media",
+            "email": "digitalmarketing@groups.purdue.edu"
         }
     ],
     "license": "GPL-3.0+",

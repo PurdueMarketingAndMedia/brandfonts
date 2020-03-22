@@ -10,7 +10,7 @@ Provide a consistent method of managing the Purdue brand across multiple WordPre
 
 1. Upload the directory brandfonts and all its contents to the /wp-content/mu-plugins/ directory
 
-### or 
+### or with Composer
 
 ```
 {

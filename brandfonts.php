@@ -84,15 +84,15 @@ if ( ! class_exists( 'PurdueBrandFonts' ) ) :
 
         public static function my_login_logo() { ?>
             <style type="text/css">
-                #login h1 a, .login h1 a {
-                background-image: url(<?php echo WPMU_PLUGIN_URL.'/images/logo-bg.png';?>) !important;
-                height:97px !important;
+            #login h1 a, .login h1 a {
+                background-image: url(<?php echo  esc_url( plugins_url( 'img/purdue-logo.png', __FILE__ ) );?>) !important;
+                height:57px !important;
                 width:320px !important;
-                background-size: 320px 97px !important;
+                background-size: 320px 57px !important;
                 background-repeat: no-repeat !important;
                 padding-bottom: 20px !important;
                 padding-left: 10px !important;
-                }
+            }
             
             body.login {
                 background: #f0f0f0 !important;
